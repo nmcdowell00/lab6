@@ -1,1 +1,7 @@
-This function takes an input and used ChromeDriver to search the Carnegie directory to find any students with your same name. 
+# What the Software Does
+
+  The code in [findcarnegie.ipynn]("https://github.com/nmcdowell00/lab6/blob/main/findcarnegie.ipynb") 
+
+# How to Use it
+
+# Installation Documentation 
