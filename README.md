@@ -4,7 +4,8 @@ The code in [findcarnegie.ipynb](https://github.com/nmcdowell00/lab6/blob/main/f
   
 # Installation Documentation 
 
-Before you can begin to run the function you will need to download a few things. First you need to downlaod selenium which can done by entering **pip install selenium**into the commmand line. Now you need to install a webdriver manager. To do so, enter **pip install webdriver-manager** into your terminal. For good measure you should also update your Chrome(you need to use chrome for this function. Instructions for updating chrome can be found [here]("https://support.google.com/chrome/answer/95414?hl=en&co=GENIE.Platform%3DDesktop"). After all of this, you should be able to run the function. 
+Before you can begin to run the function you will need to download a few things. First you need to downlaod selenium which can done by entering '''Python
+pip install selenium'''in the commmand line. Now you need to install a webdriver manager. To do so, enter **pip install webdriver-manager** into your terminal. For good measure you should also update your Chrome(you need to use chrome for this function. Instructions for updating chrome can be found [here]("https://support.google.com/chrome/answer/95414?hl=en&co=GENIE.Platform%3DDesktop"). After all of this, you should be able to run the function. 
   
 # How to Use it
 
