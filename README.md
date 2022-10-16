@@ -11,5 +11,7 @@ Before you can begin to run the function you will need to download a few things.
 
 This function is pretty simply to run. You will first want to clone the repository to your desktop. Now you can either open the *findcarnegie.ipynb* in Jupytr Notebooks and run the function, or using the command line to execute the *findcarnegie.py* function. All that the should be required of you to run the function is entering a name and a major. 
 
+# Miscellany
+
 
 
